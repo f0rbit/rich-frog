@@ -1,0 +1,1 @@
+lily_land = instance_nearest(x,y,obj_lily);

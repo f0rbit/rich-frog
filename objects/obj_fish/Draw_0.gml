@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite_index,image_index,(x + (camera.x/4))-room_width/4,(y + (camera.y/4))-room_height/4,image_xscale,image_yscale,image_angle,image_blend,image_alpha);

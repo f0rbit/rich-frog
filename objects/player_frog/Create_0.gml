@@ -1,0 +1,9 @@
+leaping = false;
+lily_dest = noone;
+leap_prev = false;
+score_prev = 0;
+powered = false;
+powered_prev = false;
+	lily_land = noone;
+in_range_of_snake = false;
+snake_range_prev = false;
